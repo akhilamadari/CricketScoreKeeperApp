@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CricketScoreKeeper</string>
+    <string name="team_a">Team India</string>
+    <string name="team_b">Team Pakistan</string>
+    <string name="six_runs">6 runs</string>
+    <string name="Four_runs">4 runs</string>
+    <string name="one_run">+1 run</string>
+    <string name="undo">undo</string>
+    <string name="wicket">wicket</string>
+    <string name="reset">reset</string>
+
+</resources>
